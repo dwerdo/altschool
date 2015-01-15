@@ -1,0 +1,24 @@
+{
+  "name": "multiplication-table",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dwerdo/Thinful-Homework---multiplication-table",
+  "authors": [
+    "Ed <ed@edhuang.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.2.20",
+    "angular": "~1.2.20",
+    "bootstrap": "~3.2.0"
+  }
+}
